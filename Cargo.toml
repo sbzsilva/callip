@@ -1,0 +1,16 @@
+[package]
+name = "callip"
+version = "0.1.0"
+edition = "2024"
+authors = ["Sergio Silva <ssilva@giantlynx.com>"]
+description = "A utility to get the public IP address of the host"
+repository = "https://github.com/sbzsilva/callip"
+homepage = "https://giantlynx.com"
+license = "MIT"
+
+[dependencies]
+reqwest = { version = "0.11.24", features = ["json"] }
+tokio = { version = "1.37", features = ["full"] }
+clap = "4.5"
+serde_json = "1.0"
+winapi-x86_64-pc-windows-gnu = "0.4.0"
