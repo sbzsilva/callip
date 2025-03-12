@@ -74,7 +74,6 @@ Options:
   -V, --version  Print version
 
 For more information, visit https://github.com/sbzsilva/callip
-OPTIONS:
 ```
 
 ## Development
