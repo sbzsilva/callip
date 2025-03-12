@@ -1,4 +1,3 @@
-```markdown
 # callip
 
 [![Rust Version](https://img.shields.io/badge/rust-1.60+-blue.svg)](https://rust-lang.github.io/rustup/installation/)
@@ -118,4 +117,3 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
