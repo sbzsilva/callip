@@ -107,11 +107,6 @@ cargo run
 ```sh
 cargo build --release
 ```
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute to this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
