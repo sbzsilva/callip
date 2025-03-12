@@ -2,7 +2,6 @@
 
 [![Rust Version](https://img.shields.io/badge/rust-1.60+-blue.svg)](https://rust-lang.github.io/rustup/installation/)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/sbzsilva/callip/ci.yml?branch=main)](https://github.com/sbzsilva/callip/actions)
 
 A simple Rust command-line utility to retrieve and display your public IP address.
 
