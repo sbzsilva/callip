@@ -5,10 +5,8 @@ use tokio;
 #[tokio::main]
 async fn main() -> Result<(), Error> {
     let matches = Command::new("callip")
-        .version("1.0")
-        .author("Your Name <your.email@example.com>")
+        .version("0.1.0")
         .about("Gets the public IP address of the host")
-        .after_help("For more information, visit https://yourcompany.com")
         .arg(
             Arg::new("help")
                 .short('h')

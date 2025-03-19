@@ -2,7 +2,7 @@
 name = "callip"
 version = "0.1.0"
 edition = "2024"
-authors = ["Sergio Silva <ssilva@giantlynx.com>"]
+authors = ["Sergio Silva <ssilva@labright.run>"]
 description = "A utility to get the public IP address of the host"
 repository = "https://github.com/sbzsilva/callip"
 homepage = "https://giantlynx.com"

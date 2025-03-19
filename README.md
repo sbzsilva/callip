@@ -56,7 +56,7 @@ callip
 
 This will display your public IP address:
 ```
-Your public IP address is: 192.168.1.1
+Your public IP address is: [0.0.0.0]
 ```
 
 ### Help Information
